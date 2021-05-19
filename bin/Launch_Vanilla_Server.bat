@@ -1,0 +1,1 @@
+.\iw3mp.exe +set sv_punkbuster 0 +exec default_server

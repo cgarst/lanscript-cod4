@@ -1,0 +1,1 @@
+.\iw3mp.exe +set fs_game mods\gungame +exec default_server +set sv_hostname GunGame

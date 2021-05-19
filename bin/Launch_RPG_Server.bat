@@ -1,0 +1,1 @@
+.\iw3mp.exe +set fs_game mods\ModWarfare +exec rpg_server.cfg
